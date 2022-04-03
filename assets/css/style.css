@@ -94,6 +94,7 @@ h1, h2 {
 #cover-text {
     font-size: 130%;
     font-family: Oswald, sans-serif;
+    color: white;
     text-transform: uppercase;
     letter-spacing: 4px;
 
@@ -156,4 +157,16 @@ hr {
     line-height: 20px;
     clear: both;
     margin-bottom: 50px;
+}
+
+.right-about-heading h2 {
+    text-align: right;
+}
+
+.right-about-heading p {
+    text-align: right;
+}
+
+#welcome {
+    text-align: center;
 }
